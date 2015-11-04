@@ -1,4 +1,13 @@
 {
+  "name": "dlegatt/silex-skeleton",
+  "description": "Silex basic skeleton project",
+  "authors": [
+    {
+      "name": "David Legatt",
+      "email": "dlegatt@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
   "require": {
     "silex/silex": "^1.3",
     "silex/web-profiler": "^1.0",
