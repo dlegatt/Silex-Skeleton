@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {
+      "type": "package",
+      "package": {
+        "name": "dlegatt/silex-skeleton",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/dlegatt/Silex-Skeleton.git",
+          "type": "git",
+          "reference": "master"
+        },
+        "autoload": {
+          "psr-0" : {
+            "dlegatt\\Silex-Skeleton": "src"
+          }
+        }
+      }
+    }
+  ]
+}
